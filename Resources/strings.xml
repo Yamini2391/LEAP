@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LEAP</string>
+    <string-array name="Category">
+        <item></item>
+        <item>Clothing</item>
+        <item>Accessories</item>
+        <item>Skin Care</item>
+        <item>Spice Grinding</item>
+        <item>Food</item>
+        <item>Art and Craft</item>
+        <item>Other</item>
+    </string-array>
+</resources>
